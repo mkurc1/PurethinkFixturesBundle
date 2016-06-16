@@ -1,0 +1,168 @@
+model: Purethink\CMSBundle\Entity\ComponentHasValueTranslation
+fixtures:
+    componet_has_value_translation_1:
+        text: "Baner 1"
+        translatable: cms_component_has_text_1
+        locale: pl
+    componet_has_value_translation_2:
+        text: "Baner 2"
+        translatable: cms_component_has_text_4
+        locale: pl
+    componet_has_value_translation_3:
+        text: "Baner 3"
+        translatable: cms_component_has_text_7
+        locale: pl
+
+    componet_has_value_translation_4:
+        text: "Lorem Ipsum Dolom 1"
+        translatable: cms_component_has_text_10
+        locale: pl
+    componet_has_value_translation_5:
+        text: "Lorem Ipsum Dolom 2"
+        translatable: cms_component_has_text_12
+        locale: pl
+    componet_has_value_translation_6:
+        text: "Lorem Ipsum Dolom 3"
+        translatable: cms_component_has_text_14
+        locale: pl
+    componet_has_value_translation_7:
+        text: "Lorem Ipsum Dolom 4"
+        translatable: cms_component_has_text_16
+        locale: pl
+    componet_has_value_translation_8:
+        text: "Lorem Ipsum Dolom 5"
+        translatable: cms_component_has_text_18
+        locale: pl
+    componet_has_value_translation_9:
+        text: "Lorem Ipsum Dolom 6"
+        translatable: cms_component_has_text_20
+        locale: pl
+    componet_has_value_translation_10:
+        text: "Lorem Ipsum Dolom 7"
+        translatable: cms_component_has_text_22
+        locale: pl
+    componet_has_value_translation_11:
+        text: "Lorem Ipsum Dolom 8"
+        translatable: cms_component_has_text_24
+        locale: pl
+    componet_has_value_translation_12:
+        text: "Lorem Ipsum Dolom 9"
+        translatable: cms_component_has_text_26
+        locale: pl
+    componet_has_value_translation_13:
+        text: "Lorem Ipsum Dolom 10"
+        translatable: cms_component_has_text_28
+        locale: pl
+    componet_has_value_translation_14:
+        text: "Lorem Ipsum Dolom 11"
+        translatable: cms_component_has_text_30
+        locale: pl
+    componet_has_value_translation_15:
+        text: "Lorem Ipsum Dolom 12"
+        translatable: cms_component_has_text_32
+        locale: pl
+    componet_has_value_translation_16:
+        text: "Lorem Ipsum Dolom 13"
+        translatable: cms_component_has_text_34
+        locale: pl
+    componet_has_value_translation_17:
+        text: "Lorem Ipsum Dolom 14"
+        translatable: cms_component_has_text_36
+        locale: pl
+    componet_has_value_translation_18:
+        text: "Lorem Ipsum Dolom 15"
+        translatable: cms_component_has_text_38
+        locale: pl
+    componet_has_value_translation_19:
+        text: "Lorem Ipsum Dolom 16"
+        translatable: cms_component_has_text_40
+        locale: pl
+    componet_has_value_translation_20:
+        text: "Lorem Ipsum Dolom 17"
+        translatable: cms_component_has_text_42
+        locale: pl
+    componet_has_value_translation_21:
+        text: "Lorem Ipsum Dolom 18"
+        translatable: cms_component_has_text_44
+        locale: pl
+    componet_has_value_translation_22:
+        text: "Lorem Ipsum Dolom 19"
+        translatable: cms_component_has_text_46
+        locale: pl
+    componet_has_value_translation_23:
+        text: "Lorem Ipsum Dolom 20"
+        translatable: cms_component_has_text_48
+        locale: pl
+
+    componet_has_value_translation_24:
+        text: "Lorem Ipsum Dolom 1"
+        locale: pl
+        translatable: cms_component_has_text_50
+    componet_has_value_translation_25:
+        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis tincidunt, ligula in consequat commodo, sapien justo ornare magna."
+        locale: pl
+        translatable: cms_component_has_text_53
+    componet_has_value_translation_26:
+        text: "Lorem Ipsum Dolom 2"
+        locale: pl
+        translatable: cms_component_has_text_54
+    componet_has_value_translation_27:
+        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis tincidunt, ligula in consequat commodo, sapien justo ornare magna."
+        locale: pl
+        translatable: cms_component_has_text_57
+    componet_has_value_translation_28:
+        text: "Lorem Ipsum Dolom 3"
+        locale: pl
+        translatable: cms_component_has_text_58
+    componet_has_value_translation_29:
+        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis tincidunt, ligula in consequat commodo, sapien justo ornare magna."
+        locale: pl
+        translatable: cms_component_has_text_61
+    componet_has_value_translation_30:
+        text: "Lorem Ipsum Dolom 1"
+        locale: pl
+        translatable: cms_component_has_text_62
+    componet_has_value_translation_31:
+        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis tincidunt, ligula in consequat commodo, sapien justo ornare magna."
+        locale: pl
+        translatable: cms_component_has_text_65
+    componet_has_value_translation_32:
+        text: "Lorem Ipsum Dolom 2"
+        locale: pl
+        translatable: cms_component_has_text_66
+    componet_has_value_translation_33:
+        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis tincidunt, ligula in consequat commodo, sapien justo ornare magna."
+        locale: pl
+        translatable: cms_component_has_text_69
+    componet_has_value_translation_34:
+        text: "Lorem Ipsum Dolom 3"
+        locale: pl
+        translatable: cms_component_has_text_70
+    componet_has_value_translation_35:
+        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis tincidunt, ligula in consequat commodo, sapien justo ornare magna."
+        locale: pl
+        translatable: cms_component_has_text_73
+    componet_has_value_translation_36:
+        text: "Lorem Ipsum Dolom 1"
+        locale: pl
+        translatable: cms_component_has_text_74
+    componet_has_value_translation_37:
+        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis tincidunt, ligula in consequat commodo, sapien justo ornare magna."
+        locale: pl
+        translatable: cms_component_has_text_77
+    componet_has_value_translation_38:
+        text: "Lorem Ipsum Dolom 2"
+        locale: pl
+        translatable: cms_component_has_text_78
+    componet_has_value_translation_39:
+        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis tincidunt, ligula in consequat commodo, sapien justo ornare magna."
+        locale: pl
+        translatable: cms_component_has_text_81
+    componet_has_value_translation_40:
+        text: "Lorem Ipsum Dolom 3"
+        locale: pl
+        translatable: cms_component_has_text_82
+    componet_has_value_translation_41:
+        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis tincidunt, ligula in consequat commodo, sapien justo ornare magna."
+        locale: pl
+        translatable: cms_component_has_text_85

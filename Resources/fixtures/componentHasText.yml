@@ -1,0 +1,127 @@
+model: Purethink\CMSBundle\Entity\ComponentHasText
+fixtures:
+    cms_component_has_text_1:
+        componentHasElement: cms_component_has_element_1
+        extensionHasField: cms_extension_has_field_1
+    cms_component_has_text_4:
+        componentHasElement: cms_component_has_element_2
+        extensionHasField: cms_extension_has_field_1
+    cms_component_has_text_7:
+        componentHasElement: cms_component_has_element_3
+        extensionHasField: cms_extension_has_field_1
+
+    cms_component_has_text_10:
+        componentHasElement: cms_component_has_element_4
+        extensionHasField: cms_extension_has_field_4
+    cms_component_has_text_12:
+        componentHasElement: cms_component_has_element_5
+        extensionHasField: cms_extension_has_field_4
+    cms_component_has_text_14:
+        componentHasElement: cms_component_has_element_6
+        extensionHasField: cms_extension_has_field_4
+    cms_component_has_text_16:
+        componentHasElement: cms_component_has_element_7
+        extensionHasField: cms_extension_has_field_4
+    cms_component_has_text_18:
+        componentHasElement: cms_component_has_element_8
+        extensionHasField: cms_extension_has_field_4
+    cms_component_has_text_20:
+        componentHasElement: cms_component_has_element_9
+        extensionHasField: cms_extension_has_field_4
+    cms_component_has_text_22:
+        componentHasElement: cms_component_has_element_10
+        extensionHasField: cms_extension_has_field_4
+    cms_component_has_text_24:
+        componentHasElement: cms_component_has_element_11
+        extensionHasField: cms_extension_has_field_4
+    cms_component_has_text_26:
+        componentHasElement: cms_component_has_element_12
+        extensionHasField: cms_extension_has_field_4
+    cms_component_has_text_28:
+        componentHasElement: cms_component_has_element_13
+        extensionHasField: cms_extension_has_field_4
+    cms_component_has_text_30:
+        componentHasElement: cms_component_has_element_14
+        extensionHasField: cms_extension_has_field_4
+    cms_component_has_text_32:
+        componentHasElement: cms_component_has_element_15
+        extensionHasField: cms_extension_has_field_4
+    cms_component_has_text_34:
+        componentHasElement: cms_component_has_element_16
+        extensionHasField: cms_extension_has_field_4
+    cms_component_has_text_36:
+        componentHasElement: cms_component_has_element_17
+        extensionHasField: cms_extension_has_field_4
+    cms_component_has_text_38:
+        componentHasElement: cms_component_has_element_18
+        extensionHasField: cms_extension_has_field_4
+    cms_component_has_text_40:
+        componentHasElement: cms_component_has_element_19
+        extensionHasField: cms_extension_has_field_4
+    cms_component_has_text_42:
+        componentHasElement: cms_component_has_element_20
+        extensionHasField: cms_extension_has_field_4
+    cms_component_has_text_44:
+        componentHasElement: cms_component_has_element_21
+        extensionHasField: cms_extension_has_field_4
+    cms_component_has_text_46:
+        componentHasElement: cms_component_has_element_22
+        extensionHasField: cms_extension_has_field_4
+    cms_component_has_text_48:
+        componentHasElement: cms_component_has_element_23
+        extensionHasField: cms_extension_has_field_4
+
+    cms_component_has_text_50:
+        componentHasElement: cms_component_has_element_24
+        extensionHasField: cms_extension_has_field_6
+    cms_component_has_text_53:
+        componentHasElement: cms_component_has_element_24
+        extensionHasField: cms_extension_has_field_9
+    cms_component_has_text_54:
+        componentHasElement: cms_component_has_element_25
+        extensionHasField: cms_extension_has_field_6
+    cms_component_has_text_57:
+        componentHasElement: cms_component_has_element_25
+        extensionHasField: cms_extension_has_field_9
+    cms_component_has_text_58:
+        componentHasElement: cms_component_has_element_26
+        extensionHasField: cms_extension_has_field_6
+    cms_component_has_text_61:
+        componentHasElement: cms_component_has_element_26
+        extensionHasField: cms_extension_has_field_9
+    cms_component_has_text_62:
+        componentHasElement: cms_component_has_element_27
+        extensionHasField: cms_extension_has_field_6
+    cms_component_has_text_65:
+        componentHasElement: cms_component_has_element_27
+        extensionHasField: cms_extension_has_field_9
+    cms_component_has_text_66:
+        componentHasElement: cms_component_has_element_28
+        extensionHasField: cms_extension_has_field_6
+    cms_component_has_text_69:
+        componentHasElement: cms_component_has_element_28
+        extensionHasField: cms_extension_has_field_9
+    cms_component_has_text_70:
+        componentHasElement: cms_component_has_element_29
+        extensionHasField: cms_extension_has_field_6
+    cms_component_has_text_73:
+        componentHasElement: cms_component_has_element_29
+        extensionHasField: cms_extension_has_field_9
+    cms_component_has_text_74:
+        componentHasElement: cms_component_has_element_30
+        extensionHasField: cms_extension_has_field_6
+    cms_component_has_text_77:
+        componentHasElement: cms_component_has_element_30
+        extensionHasField: cms_extension_has_field_9
+    cms_component_has_text_78:
+        componentHasElement: cms_component_has_element_31
+        extensionHasField: cms_extension_has_field_6
+    cms_component_has_text_81:
+        componentHasElement: cms_component_has_element_31
+        extensionHasField: cms_extension_has_field_9
+    cms_component_has_text_82:
+        componentHasElement: cms_component_has_element_32
+        extensionHasField: cms_extension_has_field_6
+    cms_component_has_text_85:
+        componentHasElement: cms_component_has_element_32
+        extensionHasField: cms_extension_has_field_9

@@ -1,0 +1,21 @@
+khepin_yaml_fixtures:
+    directory: Resources/fixtures
+    resources:
+        - PurethinkFixturesBundle/user
+        - PurethinkFixturesBundle/media
+        - PurethinkFixturesBundle/language
+        - PurethinkFixturesBundle/article
+        - PurethinkFixturesBundle/articleTranslation
+        - PurethinkFixturesBundle/extension
+        - PurethinkFixturesBundle/extensionHasField
+        - PurethinkFixturesBundle/component
+        - PurethinkFixturesBundle/componentTranslation
+        - PurethinkFixturesBundle/componentHasElement
+        - PurethinkFixturesBundle/componentHasText
+        - PurethinkFixturesBundle/componentHasArticle
+        - PurethinkFixturesBundle/componentHasFile
+        - PurethinkFixturesBundle/componentHasValueTranslation
+        - PurethinkFixturesBundle/menuType
+        - PurethinkFixturesBundle/menuArticle
+        - PurethinkFixturesBundle/menuTranslation
+        - PurethinkFixturesBundle

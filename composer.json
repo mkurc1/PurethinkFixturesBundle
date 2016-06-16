@@ -1,0 +1,28 @@
+{
+    "name": "mkurc1/purethink-fixtures-bundle",
+    "license": "MIT",
+    "type": "symfony-bundle",
+    "description": "Symfony CMSBundle",
+    "homepage": "http://purethink.pl",
+    "keywords": [
+        "cms",
+        "fixtures",
+        "purethink"
+    ],
+    "authors": [
+        {
+            "name": "Michał Kurcewicz",
+            "email": "mkurc1@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Purethink\\FixturesBundle\\": ""
+        }
+    },
+    "require": {
+        "php": ">=5.3.9",
+        "mkurc1/purethink-cms-bundle" : "dev-master",
+        "khepin/yaml-fixtures-bundle": "~0.8.1"
+    }
+}

@@ -1,0 +1,11 @@
+model: Purethink\CMSBundle\Entity\User
+fixtures:
+    user_1:
+        username: "admin"
+        usernameCanonical: "admin"
+        email: "example@purethink.pl"
+        emailCanonical: "example@purethink.pl"
+        enabled: 1
+        plainPassword: "admin"
+        roles:
+            - ROLE_SUPER_ADMIN
