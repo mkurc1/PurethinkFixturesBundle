@@ -1,4 +1,4 @@
-model: Purethink\CMSBundle\Entity\Media
+model: Purethink\CoreBundle\Entity\Media
 fixtures:
     media_1:
         name: apolo.jpeg

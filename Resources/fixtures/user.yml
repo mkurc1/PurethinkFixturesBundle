@@ -1,4 +1,4 @@
-model: Purethink\CMSBundle\Entity\User
+model: Purethink\CoreBundle\Entity\User
 fixtures:
     user_1:
         username: "admin"
