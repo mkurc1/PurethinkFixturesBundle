@@ -22,7 +22,7 @@
     },
     "require": {
         "php": ">=5.3.9",
-        "mkurc1/purethink-cms-bundle" : "^0.0.2",
+        "mkurc1/purethink-cms-bundle" : "^0.0.1",
         "khepin/yaml-fixtures-bundle": "~0.8.1"
     }
 }
