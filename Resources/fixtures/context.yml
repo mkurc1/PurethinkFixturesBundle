@@ -1,0 +1,5 @@
+model: Purethink\CoreBundle\Entity\Context
+fixtures:
+    core_context_1:
+        name: "Default"
+        enabled: 1

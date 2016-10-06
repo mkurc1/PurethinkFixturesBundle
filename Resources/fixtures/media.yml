@@ -11,6 +11,7 @@ fixtures:
         contentType: image/jpeg
         size: 17932
         context: default
+        category: core_category_1
     media_2:
         name: baner.png
         providerName: sonata.media.provider.image
@@ -22,6 +23,7 @@ fixtures:
         contentType: image/png
         size: 222669
         context: default
+        category: core_category_1
     media_3:
         name: news.jpeg
         providerName: sonata.media.provider.image
@@ -33,3 +35,4 @@ fixtures:
         contentType: image/jpeg
         size: 22192
         context: default
+        category: core_category_1

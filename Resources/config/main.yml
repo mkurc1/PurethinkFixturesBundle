@@ -1,6 +1,8 @@
 khepin_yaml_fixtures:
     directory: Resources/fixtures
     resources:
+        - PurethinkFixturesBundle/context
+        - PurethinkFixturesBundle/category
         - PurethinkFixturesBundle/user
         - PurethinkFixturesBundle/media
         - PurethinkFixturesBundle/language

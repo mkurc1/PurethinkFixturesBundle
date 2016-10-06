@@ -1,0 +1,6 @@
+model: Purethink\CoreBundle\Entity\Category
+fixtures:
+    core_category_1:
+        name: "Default"
+        enabled: 1
+        context: core_context_1
